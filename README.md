@@ -79,8 +79,8 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 Second part of Airbnb: Joann Vuong
 
 Fourth part of Airbnb:
-Luis Manrique - [Github](https://github.com/WardenCode) / [Twitter](https://twitter.com/WardenCode)
-Diego Linares - [Github](https://github.com/luismch158158) / [Twitter](https://twitter.com/LuisManriqueDev)
+Luis Manrique - [Github](https://github.com/luismch158158) / [Twitter](https://twitter.com/LuisManriqueDev)
+Diego Linares - [Github](https://github.com/WardenCode) / [Twitter](https://twitter.com/WardenCode)
 
 ## License
 [Unlicense](https://unlicense.org)
